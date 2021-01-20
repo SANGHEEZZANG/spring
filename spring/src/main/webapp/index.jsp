@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-  한상희23
+zzzz
 <script>
 	location.href="main.do";
 </script>
