@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-  ds
+  한상희
 <script>
 	location.href="main.do";
 </script>
