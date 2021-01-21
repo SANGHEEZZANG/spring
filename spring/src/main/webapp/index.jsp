@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-  자효
+
+fgfgfghhhh
+
 <script>
 	location.href="main.do";
 </script>
