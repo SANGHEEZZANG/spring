@@ -8,6 +8,7 @@
 </head>
 <body>
   ds
+  test yjyj
 <script>
 	location.href="main.do";
 </script>
