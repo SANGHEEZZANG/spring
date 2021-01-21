@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-fgfg
+
+fgfgfghhhh
+
 <script>
 	location.href="main.do";
 </script>
