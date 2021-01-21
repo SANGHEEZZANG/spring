@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-  ds
+  자효
 <script>
 	location.href="main.do";
 </script>
