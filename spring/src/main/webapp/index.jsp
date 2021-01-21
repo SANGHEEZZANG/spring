@@ -7,8 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-  ds
-  test yjyj
+fgfg
 <script>
 	location.href="main.do";
 </script>
